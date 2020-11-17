@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a95a67-3fdd-486e-bb02-ff14272ed07a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroyer1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Teleportation Pad/CustomTeleporter.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BoxPainter.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/WinTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/HoleHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HoleMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/HoleMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/rigidmove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HoleHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxPainter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scene2Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraPos.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroyer1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iHQlhD8Pkzi8NAH1hKYPonwyWg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a95a67-3fdd-486e-bb02-ff14272ed07a" name="Default Changelist" comment="" />
+      <created>1601562194934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601562194934</updated>
+      <workItem from="1601562204501" duration="2375000" />
+      <workItem from="1601564991921" duration="747000" />
+      <workItem from="1601621542665" duration="1357000" />
+      <workItem from="1601623202048" duration="22028000" />
+      <workItem from="1601650050776" duration="878000" />
+      <workItem from="1601881028853" duration="1487000" />
+      <workItem from="1601882868172" duration="807000" />
+      <workItem from="1601884142901" duration="6462000" />
+      <workItem from="1601893733964" duration="3878000" />
+      <workItem from="1601899956426" duration="8332000" />
+      <workItem from="1601967206464" duration="7904000" />
+      <workItem from="1601984057898" duration="3934000" />
+      <workItem from="1602007945452" duration="1162000" />
+      <workItem from="1602009200000" duration="1276000" />
+      <workItem from="1602054832719" duration="7518000" />
+      <workItem from="1602073972732" duration="1281000" />
+      <workItem from="1602145432816" duration="8540000" />
+      <workItem from="1602165233612" duration="8112000" />
+      <workItem from="1602190170813" duration="6492000" />
+      <workItem from="1602197226176" duration="2913000" />
+      <workItem from="1602233215044" duration="11894000" />
+      <workItem from="1602250464544" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="242" key="run.anything.popup" timestamp="1601885154234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="242" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601885154234" />
+    <state x="539" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1602147425871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="191" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602147425871" />
+    <state x="436" y="1233" key="search.everywhere.popup/5.1080.1536.832/0.0.1920.1040/-1080.229.1080.1880@5.1080.1536.832" timestamp="1601626212633" />
+  </component>
+</project>
